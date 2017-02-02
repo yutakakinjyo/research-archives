@@ -1,6 +1,6 @@
 # research-archives
 
-# reports
+# read reports
 
 - [病院外心肺停止患者の救命率向上のための
 市中 AED 設置最適化に向けての検討](http://fasd.jp/files/lib/3/291/201511131624496806.pdf)
@@ -15,3 +15,9 @@
 
 - [一般財団法人日本救急医療財団](http://www.qqzaidan.jp/)
 - [消防防災科学センター](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IA20&ac2=&Page=hpd_view)
+- [coaido](http://www.coaido.com/)
+
+# Jobs
+
+- [消防庁](https://www.fdma.go.jp/html/saiyo/h26_saiyou.html)
+- [東京消防庁](http://tfd-saiyo.jp/overview/outline/)
