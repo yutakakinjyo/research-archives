@@ -33,6 +33,10 @@
 - [消防防災科学センター](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IA20&ac2=&Page=hpd_view)
 - [Coaido Inc.](http://www.coaido.com/)
 
+# Meetings
+
+- [第20回日本臨床救急医学会総会・学術集会](http://jsem20.umin.ne.jp/index.html)
+
 # Jobs
 
 - [消防庁](https://www.fdma.go.jp/html/saiyo/h26_saiyou.html)
