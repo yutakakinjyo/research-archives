@@ -20,6 +20,10 @@
 
   一次救命処置に関するガイドライン
 
+# archives
+
+- [特集 ウツタイン統計](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IB17&ac2=93summer&ac3=5422&Page=hpd_view)
+
 # web pages
 
 - [一般財団法人日本救急医療財団](http://www.qqzaidan.jp/)
