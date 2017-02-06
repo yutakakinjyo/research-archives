@@ -23,6 +23,12 @@
 
   一次救命処置に関するガイドライン
 
+- [ウツタイン統計データ入力の実態とエラー発生との関連](https://www.jstage.jst.go.jp/article/jsem/19/1/19_52/_pdf)
+
+  システムで扱ってるウツタインのデータのエラー率は約 25%
+  入力マニュアルを見ながら入力した場合は、エラー率が下がる
+  教育等の有無ではエラー率は変わらない
+
 # Archives
 
 - [特集 ウツタイン統計](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IB17&ac2=93summer&ac3=5422&Page=hpd_view)
