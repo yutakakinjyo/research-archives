@@ -1,9 +1,9 @@
-# research-archives
+# Research-archives
 
 心室細動から社会復帰したプログラマなので、心原性の院外心停止の問題にエンジニアとして関われないか模索中。  
 そのための情報収集した内容をまとめていく
 
-# read reports(PDF)
+# Read reports(PDF)
 
 - [病院外心肺停止患者の救命率向上のための
 市中 AED 設置最適化に向けての検討](http://fasd.jp/files/lib/3/291/201511131624496806.pdf)
@@ -23,11 +23,16 @@
 
   一次救命処置に関するガイドライン
 
-# archives
+# Archives
 
 - [特集 ウツタイン統計](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IB17&ac2=93summer&ac3=5422&Page=hpd_view)
+- [救急救助オフラインシステム](http://www.fdma.go.jp/html/data/tuchi1807/pdf/180710san73_s2.pdf)
 
-# web pages
+# Software 
+
+- [アプリが救う命、変貌する救急救命現場](http://mainichi.jp/premier/business/articles/20150703/biz/00m/010/030000c)
+
+# Web pages
 
 - [一般財団法人日本救急医療財団](http://www.qqzaidan.jp/)
 - [消防防災科学センター](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IA20&ac2=&Page=hpd_view)
