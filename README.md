@@ -25,14 +25,19 @@
 
 - [ウツタイン統計データ入力の実態とエラー発生との関連](https://www.jstage.jst.go.jp/article/jsem/19/1/19_52/_pdf)
 
-  システムで扱ってるウツタインのデータのエラー率は約 25%
-  入力マニュアルを見ながら入力した場合は、エラー率が下がる
+  システムで扱ってるウツタインのデータのエラー率は約 25%  
+  入力マニュアルを見ながら入力した場合は、エラー率が下がる  
   教育等の有無ではエラー率は変わらない
+
+- [心原性心停止からの社会復帰率向上への取り組み](https://www.jstage.jst.go.jp/article/jsem/19/3/19_513/_pdf)
+
+  AED が使用された割合は 3.6%
 
 # Archives
 
 - [特集 ウツタイン統計](http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IB17&ac2=93summer&ac3=5422&Page=hpd_view)
 - [救急救助オフラインシステム](http://www.fdma.go.jp/html/data/tuchi1807/pdf/180710san73_s2.pdf)
+- [救命力世界一宣言](https://www.city.toyonaka.osaka.jp/shicho/nikki/2009/20100110.html)
 
 # Software 
 
